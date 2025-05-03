@@ -2,91 +2,91 @@
   "products": [
     {
       "id": "7b972e9d-5a8f-487f-83b3-1c88e77a961f",
-      "title": "Wireless Headphones",
-      "category": "electronics",
-      "description": "",
-      "price": 20,
-      "image": "https://via.placeholder.com/150",
+      "title": "Elder Wand",
+      "category": ["wands"],
+      "description": "One of the Deathly Hallows, unbeatable in duel, originally made by Death.",
+      "price": 600000000000,
+      "image": "./images/elderWand.png",
       "reviews": [
         {
           "id": "c3425249-36d4-44e8-b432-0fa0a2fc2a02",
           "name": "Alice",
-          "comment": "Great sound quality and battery life."
+          "comment": "Amazing power, however, my finger's start looking weird."
         }
       ]
     },
     {
       "id": "2e034f21-93f7-4d0f-9205-d8b7e0b6d66c",
-      "title": "Fantasy Novel",
-      "category": "books",
-      "description": "",
-      "price": 20,
-      "image": "https://via.placeholder.com/150",
+      "title": "Ravenclaw's Diadem",
+      "category": "jewelry",
+      "description": "The Lost Diadem of Ravenclaw was a sapphire-encrusted tiara, once belonging to Rowena Ravenclaw, the founder of Ravenclaw House. It was said to increase the wearer's wisdom. The diadem was engraved with the quote: 'Wit beyond measure is man's greatest treasure'. According to Pottermore, it was a symbol of Ravenclaw's values of intelligence and wit. ",
+      "price": 15000,
+      "image": "./images/ravenClawDiadem.jpg",
       "reviews": [
         {
           "id": "91f7fd48-084f-4d9f-8c6b-2843d8e022dc",
           "name": "Charlie",
-          "comment": "Couldn't put it down!"
+          "comment": "Horrible, almost made my heart stop!"
         }
       ]
     },
     {
       "id": "ccf72883-5b20-4b1b-a42b-3fa4f32428a1",
-      "title": "Denim Jacket",
-      "category": "clothing",
-      "description": "",
-      "price": 20,
-      "image": "https://via.placeholder.com/150",
+      "title": "Ukrainian Ironbelly",
+      "category": ["livestock", "dragon"],
+      "description": "Powerful and fearsome species, great for indoor spaces",
+      "price": 25000,
+      "image": "./images/ukrainianIronbelly.jpg",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
-          "name": "Dana",
-          "comment": "Stylish and fits perfectly!"
+          "name": "Yoshiro",
+          "comment": "A watch dog could never"
         }
       ]
     },
     {
       "id": "ccf72883-5b20-4b1b-a42b-3fa41f32428a1",
-      "title": "Denim Jacket",
-      "category": "clothing",
+      "title": "Phoenix",
+      "category": ["livestock", "birds"],
       "description": "",
-      "price": 20,
-      "image": "https://via.placeholder.com/150",
+      "price": 450,
+      "image": "./images/phoenix.jpg",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
-          "name": "Dana",
-          "comment": "Stylish and fits perfectly!"
+          "name": "Mara",
+          "comment": "Easy maintaince. If you kill it, it just resurrects"
         }
       ]
     },
     {
       "id": "ccf72883-5b20-4b1b-a42b-3fa4f324282a1",
-      "title": "Denim Jacket",
-      "category": "clothing",
-      "description": "",
-      "price": 20,
-      "image": "https://via.placeholder.com/150",
+      "title": "Nosebleed Nougat",
+      "category": ["food", "sweeets", "skiving snackboxes"],
+      "description": "Candy that makes you sick enough to skip class",
+      "price": 14,
+      "image": "./images/nosebleesNougat.jpg",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
-          "name": "Dana",
-          "comment": "Stylish and fits perfectly!"
+          "name": "Umberto",
+          "comment": "Worked!"
         }
       ]
     },
     {
       "id": "ccf72883-5b20-4b1b-a42b-3fa4f324028a1",
-      "title": "Denim Jacket",
-      "category": "clothing",
-      "description": "",
-      "price": 20,
-      "image": "https://via.placeholder.com/150",
+      "title": "Chocolate Frogs",
+      "category": ["food", "sweets"],
+      "description": " popular wizarding sweet made from chocolate in the form of a frog. They come with a collectible card of a famous witch or wizard in each pack.",
+      "price": 5,
+      "image": "./images/chocoFrog.jpg",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a53a",
-          "name": "Dana",
-          "comment": "Stylish and fits perfectly!"
+          "name": "Diana",
+          "comment": "bad, hopped away before I could eat it"
         }
       ]
     }
