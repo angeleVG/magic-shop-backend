@@ -6,7 +6,7 @@
       "category": ["wands"],
       "description": "One of the Deathly Hallows, unbeatable in duel, originally made by Death.",
       "price": 600000000000,
-      "image": "./images/elderWand.png",
+      "image": "elderwand.png",
       "reviews": [
         {
           "id": "c3425249-36d4-44e8-b432-0fa0a2fc2a02",
@@ -21,7 +21,7 @@
       "category": "jewelry",
       "description": "The Lost Diadem of Ravenclaw was a sapphire-encrusted tiara, once belonging to Rowena Ravenclaw, the founder of Ravenclaw House. It was said to increase the wearer's wisdom. The diadem was engraved with the quote: 'Wit beyond measure is man's greatest treasure'. According to Pottermore, it was a symbol of Ravenclaw's values of intelligence and wit. ",
       "price": 15000,
-      "image": "./images/ravenClawDiadem.jpg",
+      "image": "ravenclaw-diadem.jpg",
       "reviews": [
         {
           "id": "91f7fd48-084f-4d9f-8c6b-2843d8e022dc",
@@ -36,7 +36,7 @@
       "category": ["livestock", "dragon"],
       "description": "Powerful and fearsome species, great for indoor spaces",
       "price": 25000,
-      "image": "./images/ukrainianIronbelly.jpg",
+      "image": "ukrainian-ironbelly.jpg",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
@@ -51,7 +51,7 @@
       "category": ["livestock", "birds"],
       "description": "",
       "price": 450,
-      "image": "./images/phoenix.jpg",
+      "image": "phoenix.jpg",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
@@ -66,7 +66,7 @@
       "category": ["food", "sweeets", "skiving snackboxes"],
       "description": "Candy that makes you sick enough to skip class",
       "price": 14,
-      "image": "./images/nosebleesNougat.jpg",
+      "image": "nosebleed-nougat.jpg",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
@@ -81,7 +81,7 @@
       "category": ["food", "sweets"],
       "description": " popular wizarding sweet made from chocolate in the form of a frog. They come with a collectible card of a famous witch or wizard in each pack.",
       "price": 5,
-      "image": "./images/chocoFrog.jpg",
+      "image": "choco-frog.jpg",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a53a",
