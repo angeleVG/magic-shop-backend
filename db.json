@@ -35,6 +35,12 @@
           "rating": 1.5,
           "name": "test",
           "comment": "my test"
+        },
+        {
+          "id": "b55f9ea3-8c87-41f8-b6fb-39241d510e23",
+          "rating": 5,
+          "name": "Daniel",
+          "comment": "abc123"
         }
       ]
     },
@@ -123,5 +129,8 @@
         }
       ]
     }
+  ],
+  "shoppingCart": [
+    
   ]
 }
