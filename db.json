@@ -7,7 +7,7 @@
         "wands"
       ],
       "description": "One of the Deathly Hallows, unbeatable in duel, originally made by Death.",
-      "price": 600000000000,
+      "price": 10000000,
       "image": "elderwand.png",
       "reviews": [
         {
@@ -20,8 +20,8 @@
     {
       "id": "2e034f21-93f7-4d0f-9205-d8b7e0b6d66c",
       "title": "Ravenclaw's Diadem",
-      "category": "jewelry",
-      "description": "The Lost Diadem of Ravenclaw was a sapphire-encrusted tiara, once belonging to Rowena Ravenclaw, the founder of Ravenclaw House. It was said to increase the wearer's wisdom. The diadem was engraved with the quote: 'Wit beyond measure is man's greatest treasure'. According to Pottermore, it was a symbol of Ravenclaw's values of intelligence and wit. ",
+      "category": ["jewelry"],
+      "description": "The Lost Diadem of Ravenclaw was a sapphire-encrusted tiara, once belonging to Rowena Ravenclaw, the founder of Ravenclaw House. It was said to increase the wearer's wisdom. The diadem was engraved with the quote: 'Wit beyond measure is man's greatest treasure'. According to Pottermore, it was a symbol of Ravenclaw's values of intelligence and wit.",
       "price": 15000,
       "image": "ravenclaw-diadem.png",
       "reviews": [
@@ -106,6 +106,7 @@
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
+            "rating": 5,
           "name": "Umberto",
           "comment": "Worked!"
         }
@@ -118,7 +119,7 @@
         "food",
         "sweets"
       ],
-      "description": " popular wizarding sweet made from chocolate in the form of a frog. They come with a collectible card of a famous witch or wizard in each pack.",
+      "description": "popular wizarding sweet made from chocolate in the form of a frog. They come with a collectible card of a famous witch or wizard in each pack.",
       "price": 5,
       "image": "choco-frog.png",
       "reviews": [
@@ -128,8 +129,121 @@
           "comment": "bad, hopped away before I could eat it"
         }
       ]
+    },
+    {
+      "title": "Amortentia",
+      "category": ["potions"],
+      "description": "The most powerful love potion known to wizardkind—sniff with caution.",
+      "price": 98,
+      "image": "amortentia.png",
+      "reviews": [
+        {
+          "id": "ccf72883-5b20-4b1b-a42b-3fa41f32428a1",
+          "name": "Romilda Vane",
+          "comment": "I spilled a drop and now I have three admirers and a stalker. 10/10."
+        }
+      ]
+    },
+    {
+      "title": "Every flavour beans",
+      "category": ["food", "sweets"],
+      "description": "From marshmallow to earwax—adventure in every bite!",
+      "price": 8,
+      "image": "bertie-botts-every-flavour-beans.png",
+      "reviews": [
+        {
+          "id": "ccf72883-5e20-4b1b-a44b-3fa41f32428a1",
+          "name": "Fred Weasley",
+          "comment": "Got soap, grass, and possibly dragon. Worth every Knut."
+        }
+      ]
+    },
+    {
+      "title": "Butterbeer soda",
+      "category": ["drinks", "foods"],
+      "description": "A fizzy twist on a wizarding classic, best served chilled after Quidditch.",
+      "price": 6,
+      "image": "butterbeer-soda.png",
+      "reviews": [
+        {
+          "id": "ccf72883-5e20-4b1b-a44b-3fa41f32678a1",
+            "rating": 5,
+          "name": "Lee Jordan",
+          "comment": "Bubbly, sweet, and slightly tipsy after five—delicious!"
+        }
+      ]
+    },
+    {
+      "title": "Deathly hallows necklace",
+      "category": ["jewelry", "necklace"],
+      "description": "An iconic symbol of legend, mystery, and unbeatable fashion.",
+      "price": 100,
+      "image": "deathly-hallows-triangle-necklace.png",
+      "reviews": [
+        {
+          "id": "ggf72883-5e20-4b1b-a44b-3fa41f42678a1",
+          "name": "Luna Lovegood",
+          "comment": "Wore it to a Crumple-Horned Snorkack hunt. Felt powerful and stylish!"
+        }
+      ]
+    },
+    {
+      "title": "Felix felicis",
+      "category": ["potions"],
+      "description": "Liquid luck in a bottle—use wisely (and not before exams).",
+      "price": 289,
+      "image": "felix-felicis.png",
+      "reviews": [
+        {
+          "id": "ccf72883-5b20-4b1b-u44b-3fa41f32428a1",
+          "name": "Horace Slughorn",
+          "comment": "Took a sip and won the lottery, found my keys, and ran into Merlin."
+        }
+      ]
+    },
+    {
+      "title": "Snowy owl",
+      "category": ["animals", "birds"],
+      "description": "Graceful, loyal, and occasionally judgmental—your perfect magical companion.",
+      "price": 460,
+      "image": "snowy-owl.png",
+      "reviews": [
+        {
+          "id": "ccf72883-5b28-4b1b-u44b-3fa41f32428r4",
+          "name": "Seamus Finnigan",
+          "comment": "Delivered my letter, stared into my soul, and stole my bacon."
+        }
+      ]
+    },
+    {
+      "title": "Veritaserum",
+      "category": ["potions"],
+      "description": "Three drops and even your toad will start confessing its secrets.",
+      "price": 101,
+      "image": "veritaserum.png",
+      "reviews": [
+        {
+          "id": "ccf72993-5b28-4b1b-u44b-3fa41f32428r4",
+          "name": "Rita Skeeter",
+          "comment": "Spilled some on a date. Learned *way* too much. Would recommend."
+        }
+      ]
+    },
+    {
+      "title": "Zwadderich necklace",
+      "category": ["jewelry", "necklace"],
+      "description": "Dark, mysterious, and absolutely cursed—just like your ex.",
+      "price": 679,
+      "image": "zwadderich-medaillon-necklace.png",
+      "reviews": [
+        {
+          "id": "ccf72993-5b28-4b1b-u44b-3fa41f32428r4",
+            "rating": 4,
+          "name": "Draco Malfoy",
+          "comment": "Looks great. Possibly haunted. Still wearing it daily."
+        }
+      ]
     }
   ],
-  "shoppingCart": [
-  ]
+  "shoppingCart": []
 }
