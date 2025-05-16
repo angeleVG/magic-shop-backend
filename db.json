@@ -23,7 +23,7 @@
       "category": "jewelry",
       "description": "The Lost Diadem of Ravenclaw was a sapphire-encrusted tiara, once belonging to Rowena Ravenclaw, the founder of Ravenclaw House. It was said to increase the wearer's wisdom. The diadem was engraved with the quote: 'Wit beyond measure is man's greatest treasure'. According to Pottermore, it was a symbol of Ravenclaw's values of intelligence and wit. ",
       "price": 15000,
-      "image": "ravenclaw-diadem.jpg",
+      "image": "ravenclaw-diadem.png",
       "reviews": [
         {
           "id": "91f7fd48-084f-4d9f-8c6b-2843d8e022dc",
@@ -53,7 +53,7 @@
       ],
       "description": "Powerful and fearsome species, great for indoor spaces",
       "price": 25000,
-      "image": "ukrainian-ironbelly.jpg",
+      "image": "ukrainian-ironbelly.png",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
@@ -71,7 +71,7 @@
       ],
       "description": "",
       "price": 450,
-      "image": "phoenix.jpg",
+      "image": "phoenix.png",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a3a",
@@ -120,7 +120,7 @@
       ],
       "description": " popular wizarding sweet made from chocolate in the form of a frog. They come with a collectible card of a famous witch or wizard in each pack.",
       "price": 5,
-      "image": "choco-frog.jpg",
+      "image": "choco-frog.png",
       "reviews": [
         {
           "id": "80c6c09e-08d0-43f0-97c6-c13e342d9a53a",
