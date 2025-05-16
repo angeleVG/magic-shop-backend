@@ -215,6 +215,7 @@
         }
       ]
     },
+    
     {
       "title": "Veritaserum",
       "category": ["potions"],
@@ -229,6 +230,39 @@
         }
       ]
     },
+{
+  "id": "2e034f21-93f7-4d0f-9205-d8b7e0b6d76t",
+  "title": "Voldemort wand",
+  "category": ["wands"],
+  "description": "Crafted from yew and infused with unsettling energy, this wand hums with the whispers of dark magic. Not recommended for bedtime use.",
+  "price": 97990,
+  "image": "lord-wand.png",
+  "reviews": [
+    {
+      "id": "66f7fd48-084f-4d9f-8c6b-2843d8e022dc",
+      "name": "Lucien",
+      "comment": "Sneezed while holding it and accidentally hexed my cat. 10/10, very efficient.",
+      "rating": 5
+    },
+  ]
+},
+
+{
+  "id": "ccf72883-5b20-5b1h-a72b-3fa4f32428a1",
+  "title": "Oliver Wood wand",
+  "category": ["wands"],
+  "description": "Solid and sporty, this wand is best used for light spells, Quidditch pep talks, and stirring hot cocoa. Built like a broomstick. Kinda.",
+  "price": 3250,
+  "image": "oliver-wood-wand.png",
+  "reviews": [
+    {
+      "id": "89c6c09e-08d0-43f0-97c6-c13e342d9a3a",
+      "name": "Penny",
+      "comment": "Tried to summon a snitch. Summoned my neighbor’s drone instead. Close enough!",
+      "rating": 4
+    }
+  ]
+},
     {
       "title": "Zwadderich necklace",
       "category": ["jewelry", "necklace"],
