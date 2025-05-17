@@ -20,10 +20,13 @@ try {
       credentials: true
     })
   );
+
   console.log("frontend url:",process.env.FRONTEND_URL)
+
   server.use(middlewares);
   server.use(morgan("dev"));
   server.use(router);
+  
   server.listen(PORT, () => {
     console.log(`JSON Server is running at port ${PORT}`);
   });

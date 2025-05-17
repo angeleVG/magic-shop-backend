@@ -29,18 +29,6 @@
           "id": "91f7fd48-084f-4d9f-8c6b-2843d8e022dc",
           "name": "Charlie",
           "comment": "Horrible, almost made my heart stop!"
-        },
-        {
-          "id": "df8c5efd-3c89-419c-b21e-ff049619a137",
-          "rating": 1.5,
-          "name": "test",
-          "comment": "my test"
-        },
-        {
-          "id": "b55f9ea3-8c87-41f8-b6fb-39241d510e23",
-          "rating": 5,
-          "name": "Daniel",
-          "comment": "abc123"
         }
       ]
     },
@@ -83,12 +71,6 @@
           "rating": 5,
           "name": "Dumbeldore",
           "comment": "Hot stuff"
-        },
-        {
-          "id": "5c2882cd-d538-4628-b12a-a51aefcdcb11",
-          "rating": 4.5,
-          "name": "ddf",
-          "comment": "sdfsdf"
         }
       ]
     },
@@ -131,6 +113,7 @@
       ]
     },
     {
+      "id": "18bd34f4-1394-45bc-93c1-2db90f9f4a40",
       "title": "Amortentia",
       "category": ["potions"],
       "description": "The most powerful love potion known to wizardkind—sniff with caution.",
@@ -145,6 +128,7 @@
       ]
     },
     {
+      "id": "769a5dbc-27f6-443e-af2e-3d10bbb133a2",
       "title": "Every flavour beans",
       "category": ["food", "sweets"],
       "description": "From marshmallow to earwax—adventure in every bite!",
@@ -159,6 +143,7 @@
       ]
     },
     {
+      "id": "efa66ff8-b7ef-4308-a5c4-38aa2c4cc7a5",
       "title": "Butterbeer soda",
       "category": ["drinks", "foods"],
       "description": "A fizzy twist on a wizarding classic, best served chilled after Quidditch.",
@@ -174,6 +159,7 @@
       ]
     },
     {
+      "id": "812f4e34-1c9e-4b2a-8c4a-e68ebabd4ebe",
       "title": "Hallows necklace",
       "category": ["jewelry", "necklace"],
       "description": "An iconic symbol of legend, mystery, and unbeatable fashion.",
@@ -188,6 +174,7 @@
       ]
     },
     {
+      "id":"bd9e4d9f-a835-4fa0-b562-33c99917dbf2",
       "title": "Felix felicis",
       "category": ["potions"],
       "description": "Liquid luck in a bottle—use wisely (and not before exams).",
@@ -202,6 +189,7 @@
       ]
     },
     {
+      "id": "3f5b946b-bbcd-4114-8a32-08fa66f8ef5e",
       "title": "Snowy owl",
       "category": ["animals", "birds"],
       "description": "Graceful, loyal, and occasionally judgmental—your perfect magical companion.",
@@ -217,6 +205,7 @@
     },
     
     {
+      "id": "2dedb7a7-03dd-4083-95cd-49dc194fd9b1",
       "title": "Veritaserum",
       "category": ["potions"],
       "description": "Three drops and even your toad will start confessing its secrets.",
